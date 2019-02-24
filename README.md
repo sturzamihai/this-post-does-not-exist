@@ -43,3 +43,10 @@ In fact AI has tried to change our way of seeing the world a lot more recently. 
 Robotics scientists for many decades knew that this is not an innovation. We were very much following our inner arcane books – frameworks that came bundled and programmed together as a whole rather than an intricate system of components. I own a robot, and in spite of computation technology, and usual Artificial Intelligence (AI) displayed an amazing skill.
 
 ## Progressive Growing In Action
+
+- Generated images using Progressive Growing GANs
+<img src=https://raw.githubusercontent.com/sturzamihai/this-post-does-not-exist/master/gen1.png width=250>
+<img src=https://raw.githubusercontent.com/sturzamihai/this-post-does-not-exist/master/gen2.png width=250>
+
+## Final result
+The final results can be found here: https://sturzamihai.com/this-blog-post-does-not-exist
